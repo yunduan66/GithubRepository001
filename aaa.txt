@@ -1,0 +1,9 @@
+我是从fenzhi01上
+git add aaa.txt
+git commit -m 'fenzhi01提交文件aaa.txt'
+然后
+git checkout master
+git merge fenzhi01
+合并添加到主分支后，故里被
+git branch -d fenzhi01
+无情删除了。
